@@ -38,5 +38,6 @@ Sin embargo, si comparamos el número de puntos conseguidos en relación a las v
 Por lo tanto y como conclusión, se puede afirmar que los pilotos actuales tienen ventaja estadística frente a los pilotos clásicos, ya que estos no tenían tantas oportunidades de sumar vueltas, puntos o podios, sin embargo, los grandes pilotos destacan por conseguir grandes resultados sin importar el  año en el que compiten.
 
 Todos los gráficos interactivos
+  
 https://public.tableau.com/app/profile/luis.galde/viz/Visualizacin-Historia/Historia1?publish=yes
 
